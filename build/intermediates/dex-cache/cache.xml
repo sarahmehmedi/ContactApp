@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/classes-ef2e1453b470791d1f5072aa65c34cb71567b2f1.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/classes-43c78d878e3674fab5ebfd424f36d1bffb0ebaeb.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/com.mcxiaoke.volley/android-volley-master/1.0.19/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5ffa13808dff1402ff48e54451dd7094b294e30e">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/classes-82fa77181ae348946f147c20a3ba6ed6d16a06f6.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-1f75198209eba92d719ac5301a7bec845bfc4696.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-53f6489f7647e7ba26a2bbf8bdfd30e09cf1cecf.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/classes-d88ed49004a2ebfd9b431a872addd3b207c20ce4.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/exploded-aar/ContactsApp/lib/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dbd15d24ffbea1dcd69a818ae0c0a35fdded4d90">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/classes-ff939763f3f166f11aebfa86c569d5d96d9ad404.jar" />
+    </item>
+    <item
+        jar="/Users/sarahmehmedi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/sarahmehmedi/Dropbox/ContactsApp/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-eacdc283bc4306386f918f5c0742941e8bdfd304.jar" />
+    </item>
+
+</items>
